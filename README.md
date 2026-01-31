@@ -11,7 +11,9 @@ npx playwright test
 
 ## Run a single test file
 npx playwright test tests/positive.spec.js 
+
 npx playwright test tests/negative.spec.js 
+
 npx playwright test ui.spec.js --headed 
 
 ## View report 
